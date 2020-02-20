@@ -51,3 +51,5 @@ Problem writing Eleventy templates: (more in DEBUG output)
 `TypeError` was thrown:
     TypeError: undefined filter: world
 ```
+
+**NOTE:** In newer versions of liquidjs (v9), this option has been renamed "strictFilters".
